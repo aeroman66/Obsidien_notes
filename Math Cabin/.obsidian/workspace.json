@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "7fa97b14ce4940fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "7168a926ba660bbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e39937ffd57b4395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实分析/Analyse de Fourier/1.1.4.2 Convolution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9ee24fb7cdd7010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algèbre Linéaire/5 特征值 & 特征向量/5.3 Eigen Differential Equation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f69fb9d2d01a768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实分析/Analyse de Fourier/1.1.1 Serie de Fourier Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1e37abc3c413329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实分析/Analyse de Fourier/1.1.3 Transformation de Fourier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "693bda04d7f1bef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FFT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5c84e9768387ac8",
+    "type": "split",
+    "children": [
+      {
+        "id": "20edadb124bf8c43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "091506644528fbdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7c0dbb8ba8f6a41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc5834c826aa3995",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "297cbd41c0521ca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdf394a2e3575199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ebc7e790876e96a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FFT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8466854b2841979f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FFT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0045f83bdc84fda7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5ad2ce5d84bd021",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FFT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "693bda04d7f1bef0",
+  "lastOpenFiles": [
+    "Algèbre Linéaire/5 特征值 & 特征向量/Extra 复数矩阵.md",
+    "FFT.md",
+    "Algèbre Linéaire/正定性 & 二次型最小值.md",
+    "pics/二次型2.png",
+    "Algèbre Linéaire/5 特征值 & 特征向量/5.5 对称矩阵与正定矩阵.md",
+    "实分析/Analyse de Fourier/1.1.3 Transformation de Fourier.md",
+    "实分析/Analyse de Fourier/1.1.2 Serie de Fourier.md",
+    "实分析/Analyse de Fourier/1.1.2.2 Serie de Fourier.md",
+    "实分析/Analyse de Fourier/1.1.1 Serie de Fourier Base.md",
+    "实分析/Analyse de Fourier/1.1.1.2 函数内积.md",
+    "Algèbre Linéaire/5 特征值 & 特征向量/5.4 Eigen 马尔可夫矩阵.md",
+    "Algèbre Linéaire/5 特征值 & 特征向量/5.3 Eigen Differential Equation.md",
+    "Algèbre Linéaire/5 特征值 & 特征向量/5.2 Eigen Applications.md",
+    "实分析/Analyse de Fourier/1.1.2.3 Serie de Fourier.md",
+    "实分析/Analyse de Fourier/1.1.4 Relation avec Derivation et Convolution.md",
+    "实分析/Analyse de Fourier/1.1.4.2 Convolution.md",
+    "实分析/Analyse de Fourier/Convergence Pontuelle.md",
+    "Algèbre Linéaire/5 特征值 & 特征向量/5.1 Eigenvalue & Eigenvector.md",
+    "实分析/Espace Lp.md",
+    "Algèbre Linéaire/4 行列式/4.2 行列式公式 1.md",
+    "Algèbre Linéaire/4 行列式/4.1 Determinant 性质.md",
+    "Algèbre Linéaire/2 Vector space/2.1 向量空间.md",
+    "pics/收敛范围.png",
+    "pics/截屏2024-03-06 16.35.02.png",
+    "Algèbre Linéaire/5 特征值 & 特征向量",
+    "Algèbre Linéaire/4 行列式/4.3 行列式Plus 1.md",
+    "pics/行列式plus2.png",
+    "pics/行列式plus1.png",
+    "pics",
+    "未命名文件夹",
+    "Algèbre Linéaire/2 Vector space/Gram-Schmidt 正交化.md",
+    "2023-10-17.md",
+    "Algèbre Linéaire/4 行列式",
+    "最小二乘法.md",
+    "Algèbre Linéaire/2 Vector space/2.1.0 系数矩阵子空间"
+  ]
+}

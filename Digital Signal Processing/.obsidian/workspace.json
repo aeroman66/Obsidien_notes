@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "8b5993dda426d6d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3303f1a55072cb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64ab4da2a11f4fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 信号与系统/能量和功率.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3689706b517332c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 信号与系统/能量和功率.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86895c97d2098944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 信号与系统/信号变换与基本信号.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95c11f08e7aee984",
+    "type": "split",
+    "children": [
+      {
+        "id": "f340210017dd1a5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b991a6779f09fca9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57009c9b6e76f189",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f4d2fe3c07bf24f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44a83e7a9139048c",
+    "type": "split",
+    "children": [
+      {
+        "id": "abd6233fcf77f9fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67397eeb5f9e0619",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 信号与系统/能量和功率.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5eef3811a4e2f142",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 信号与系统/能量和功率.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34abc1e62f9046d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b88b5f3236ce1899",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 信号与系统/能量和功率.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b991a6779f09fca9",
+  "lastOpenFiles": [
+    "1 信号与系统/能量和功率.md",
+    "1 信号与系统/连续时间、离散时间系统.md",
+    "未命名.md",
+    "1 信号与系统",
+    "1 信号与系统/信号变换与基本信号.md"
+  ]
+}

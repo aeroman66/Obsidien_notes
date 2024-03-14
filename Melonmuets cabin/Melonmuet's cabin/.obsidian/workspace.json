@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "6d0d016334144920",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ade8c5d14cc54e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef688787548e7abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CP/Assignments/README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72354d5cda8792eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "603674eb2d14e322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb4650641fc531c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f55d494bf8067a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90e75b6568b7d8c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bcdd0a32f0ee8dbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cbadf3c9beb943b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b2755dbaba8e284",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CP/Assignments/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45a2252707732d69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CP/Assignments/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9961c097dc08122",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c77086507d1f61a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CP/Assignments/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ef688787548e7abc",
+  "lastOpenFiles": [
+    "叶恒.md",
+    "CP/Assignments/README.md",
+    "CP/Assignments/README 1.md",
+    "未命名.md",
+    "CP/Make Makefile/Makefile的书写规则.md",
+    "CP/Make Makefile/初识make.md",
+    "CP/Cmake/CMake 内部构建与外部构建.md",
+    "CP/Cmake/CMake语法介绍.md",
+    "CP/Cmake/初始Cmake.md",
+    "2023-09-23.md",
+    "CP/Cmake/工程基本文件结构.md",
+    "未命名.canvas",
+    "CP/Cmake",
+    "CP/Make Makefile",
+    "CP/Assignments",
+    "CP"
+  ]
+}

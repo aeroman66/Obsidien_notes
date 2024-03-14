@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "917487818de4e9f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "07191e2cb1eab51f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bce61ea44b3a98c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "进度/20240225 叶恒.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15ec2b253f0ddd37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "进度/20240303 叶恒.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6084893407f8c67d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "进度/20240303 叶恒.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5efc12797453d63f",
+    "type": "split",
+    "children": [
+      {
+        "id": "98a5b71ca7b90c42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecb2887ed4291df3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2a94300c9814892",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06a6e74dbcadd593",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f96d54af2b202780",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b9b46f65d844ad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deb7d75b2d6f3328",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a59aef44d68640b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3b20144649b1bad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e47e8b5cfd155a32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "灯泡的联想 叶恒 521260910012.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ecb2887ed4291df3",
+  "lastOpenFiles": [
+    "pics/灯泡的联想4.png",
+    "pics/灯泡的联想3.jpg",
+    "pics/灯泡的联想2.pic.jpg",
+    "pics/灯泡的联想1.pic.jpg",
+    "pics",
+    "oics",
+    "未命名文件夹",
+    "进度/20240303 叶恒.md",
+    "灯泡的联想 叶恒 521260910012.md",
+    "进度/20240310 叶恒.md",
+    "进度/pics/曲线轨迹.jpg",
+    "进度/pics/运动学笔记.png",
+    "进度/pics/控制器.png",
+    "进度/pics/控制框图.png",
+    "进度/pics/腿部建模.png",
+    "进度/pics/截屏2024-03-04 01.22.31.png",
+    "进度/pics/截屏2024-03-04 01.22.42.png",
+    "进度/20240225 叶恒.md",
+    "进度/20240218 叶恒.md"
+  ]
+}
