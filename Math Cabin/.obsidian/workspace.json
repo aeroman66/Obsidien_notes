@@ -8,103 +8,127 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e39937ffd57b4395",
+            "id": "d2997b17cde55ab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实分析/Analyse de Fourier/1.1.4.2 Convolution.md",
+                "file": "Optimisation/1 Outils Techniques.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d9ee24fb7cdd7010",
+            "id": "05e815702db1c126",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algèbre Linéaire/5 特征值 & 特征向量/5.3 Eigen Differential Equation.md",
+                "file": "Optimisation/0.1 Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2f69fb9d2d01a768",
+            "id": "a53398573511f270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实分析/Analyse de Fourier/1.1.1 Serie de Fourier Base.md",
+                "file": "Optimisation/无约束优化/存在性、唯一性和优化条件.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c1e37abc3c413329",
+            "id": "bccea66ba95f17f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实分析/Analyse de Fourier/1.1.3 Transformation de Fourier.md",
+                "file": "Optimisation/无约束优化/存在性、唯一性和优化条件.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "693bda04d7f1bef0",
+            "id": "293a69c7894bca0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实分析/Analyse de Fourier/FFT.md",
+                "file": "Optimisation/无约束优化/梯度下降法.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "feb6e36092e79b25",
+            "id": "4e304c5e544f6657",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algèbre Linéaire/5 特征值 & 特征向量/5.5 对称矩阵与正定矩阵.md",
+                "file": "Optimisation/无约束优化/梯度下降法.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f29033bc5d9f8562",
+            "id": "5f3663af94d0c6db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algèbre Linéaire/8 线性映射/8.1 线性映射 & 对应矩阵.md",
+                "file": "Optimisation/无约束优化/Méthode de Newton et quasi-Newton.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "36044540d9db6b77",
+            "id": "a9272af811298c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algèbre Linéaire/8 线性映射/8.1 线性映射 & 对应矩阵.md",
+                "file": "Optimisation/无约束优化/Méthode de Newton et quasi-Newton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c7a805a8b0d1d62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimisation/有约束优化/等式约束——Lagrange.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55309ff00a4b2b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "不等式约束—— Conditions de Kuhn et Tucker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -170,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algèbre Linéaire/8 线性映射/8.1 线性映射 & 对应矩阵.md",
+                "file": "不等式约束—— Conditions de Kuhn et Tucker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algèbre Linéaire/8 线性映射/8.1 线性映射 & 对应矩阵.md",
+                "file": "不等式约束—— Conditions de Kuhn et Tucker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algèbre Linéaire/8 线性映射/8.1 线性映射 & 对应矩阵.md"
+                "file": "不等式约束—— Conditions de Kuhn et Tucker.md"
               }
             }
           }
@@ -231,8 +255,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "36044540d9db6b77",
+  "active": "55309ff00a4b2b33",
   "lastOpenFiles": [
+    "Optimisation/有约束优化/等式约束——Lagrange.md",
+    "不等式约束—— Conditions de Kuhn et Tucker.md",
+    "Optimisation/2 Direction.md",
+    "Optimisation/无约束优化/Méthode de Newton et quasi-Newton.md",
+    "Optimisation/无约束优化/梯度下降法.md",
+    "Optimisation/有约束优化/存在性 & 唯一性.md",
+    "Optimisation/无约束优化/存在性、唯一性和优化条件.md",
+    "Optimisation/有约束优化",
+    "Optimisation/1 Outils Techniques.md",
+    "Optimisation/0.2 Introduction.md",
+    "Optimisation/0.1 Introduction.md",
+    "3.md",
+    "Optimisation/无约束优化",
+    "Optimisation",
     "实分析/Analyse de Fourier/FFT.md",
     "Algèbre Linéaire/8 线性映射/8.2 可逆性与同构.md",
     "Algèbre Linéaire/8 线性映射/8.1 线性映射 & 对应矩阵.md",
@@ -250,17 +288,6 @@
     "实分析/Analyse de Fourier/1.1.4.2 Convolution.md",
     "Algèbre Linéaire/5 特征值 & 特征向量/Extra 复数矩阵.md",
     "pics/二次型2.png",
-    "实分析/Analyse de Fourier/1.1.2 Serie de Fourier.md",
-    "实分析/Analyse de Fourier/1.1.2.2 Serie de Fourier.md",
-    "实分析/Analyse de Fourier/1.1.1 Serie de Fourier Base.md",
-    "实分析/Analyse de Fourier/1.1.1.2 函数内积.md",
-    "实分析/Analyse de Fourier/1.1.2.3 Serie de Fourier.md",
-    "实分析/Analyse de Fourier/1.1.4 Relation avec Derivation et Convolution.md",
-    "实分析/Analyse de Fourier/Convergence Pontuelle.md",
-    "Algèbre Linéaire/5 特征值 & 特征向量/5.1 Eigenvalue & Eigenvector.md",
-    "实分析/Espace Lp.md",
-    "Algèbre Linéaire/4 行列式/4.2 行列式公式 1.md",
-    "Algèbre Linéaire/4 行列式/4.1 Determinant 性质.md",
     "pics/收敛范围.png",
     "pics/截屏2024-03-06 16.35.02.png",
     "Algèbre Linéaire/5 特征值 & 特征向量",

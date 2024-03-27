@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATLAB/0 基础知识/0.5 矩阵元素操作.md",
+                "file": "MATLAB/0 基础知识/0.3 基本运算.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATLAB/0 基础知识/0.5 矩阵元素操作.md",
+                "file": "MATLAB/0 基础知识/0.3 基本运算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATLAB/0 基础知识/0.5 矩阵元素操作.md",
+                "file": "MATLAB/0 基础知识/0.3 基本运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATLAB/0 基础知识/0.5 矩阵元素操作.md"
+                "file": "MATLAB/0 基础知识/0.3 基本运算.md"
               }
             }
           }
@@ -209,6 +209,20 @@
   },
   "active": "e2fa2a3b3a4bf7e0",
   "lastOpenFiles": [
+    "MATLAB/0 基础知识/0.4 矩阵表示.md",
+    "MATLAB/0 基础知识/0.5 矩阵元素操作.md",
+    "MATLAB/1 矩阵处理/矩阵特征值与特征向量.md",
+    "MATLAB/1 矩阵处理/矩阵求值.md",
+    "Dr.Cancanneed/现代控制理论/1 状态空间与方程.md",
+    "Dr.Cancanneed/现代控制理论/2 状态空间方程的解.md",
+    "MATLAB/1 矩阵处理/矩阵变换.md",
+    "MATLAB/0 基础知识/0.3 基本运算.md",
+    "MATLAB/0 基础知识/0.2 变量及其操作.md",
+    "MATLAB/0 基础知识/0.1 数值数据类型.md",
+    "MATLAB/0 基础知识/0.0 一些命令行小知识.md",
+    "MATLAB/0 基础知识/0.6 字符串数据类型.md",
+    "MATLAB/2 程序流程控制/2.3 循环结构.md",
+    "MATLAB/2 程序流程控制/2.2 选择结构.md",
     "机器人学导论/动力学/3.1.1 刚体加速度.md",
     "Irène Jacob.md",
     "机器人学导论/动力学/3.2 质量分布——惯性张量.md",
@@ -222,20 +236,6 @@
     "机器人学导论/2 雅可比/2.4 静力 & 力域中的雅可比.md",
     "机器人学导论/动力学",
     "机器人学导论/2 雅可比/2.1.2 角速度 advanced.md",
-    "机器人学导论/2 雅可比/2.0 概述.md",
-    "MATLAB/0 基础知识/0.5 矩阵元素操作.md",
-    "MATLAB/1 矩阵处理/矩阵求值.md",
-    "MATLAB/1 矩阵处理/矩阵变换.md",
-    "MATLAB/2 程序流程控制/2.3 循环结构.md",
-    "MATLAB/2 程序流程控制/2.4 函数文件.md",
-    "MATLAB/2 程序流程控制/2.5 函数参数与变量.md",
-    "MATLAB/3 绘图/3.1 二维曲线.md",
-    "MATLAB/3 绘图/3.2 绘图辅助操作.md",
-    "MATLAB/3 绘图/3.3 其他形式二维曲线.md",
-    "MATLAB/3 绘图/3.4 三维曲线.md",
-    "MATLAB/3 绘图/3.5 三维曲面.md",
-    "机器人学导论/1 空间描述和变换/1.2.1 空间变换——映射.md",
-    "机器人学导论/1 空间描述和变换/Sumup.md",
     "MATLAB/4 符号计算",
     "Simulink",
     "MATLAB/3 绘图",

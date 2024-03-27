@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3fde2a6b8fec5f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20240324 叶恒.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "进度/20240316 叶恒.md",
+                "file": "20240324 叶恒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "进度/20240316 叶恒.md",
+                "file": "20240324 叶恒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "进度/20240316 叶恒.md"
+                "file": "20240324 叶恒.md"
               }
             }
           }
@@ -183,11 +195,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ecb2887ed4291df3",
+  "active": "3fde2a6b8fec5f16",
   "lastOpenFiles": [
+    "进度/pics/MPC 控制器.png",
+    "进度/pics/PD 控制器.png",
+    "进度/20240225 叶恒.md",
+    "20240324 叶恒.md",
     "进度/pics/力矩控制机体.png",
     "进度/pics/位置控制机体.png",
-    "进度/20240225 叶恒.md",
     "进度/20240316 叶恒.md",
     "pics/灯泡的联想4.png",
     "pics/灯泡的联想3.jpg",
@@ -202,8 +217,6 @@
     "进度/pics/曲线轨迹.jpg",
     "进度/pics/运动学笔记.png",
     "进度/pics/控制器.png",
-    "进度/pics/控制框图.png",
-    "进度/pics/腿部建模.png",
     "进度/20240218 叶恒.md"
   ]
 }
