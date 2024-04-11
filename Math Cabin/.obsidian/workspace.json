@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimisation/无约束优化/梯度下降法.md",
+                "file": "Optimisation/无约束优化/Méthode de Gradiant.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimisation/无约束优化/梯度下降法.md",
+                "file": "Optimisation/无约束优化/Méthode de Gradiant.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,14 +121,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "不等式约束—— Conditions de Kuhn et Tucker.md",
+                "file": "Optimisation/有约束优化/不等式约束—— Conditions de Kuhn et Tucker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8749f8d9f69cf69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimisation/无约束优化/Méthode de Newton et quasi-Newton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d586152d5e2962e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algèbre Linéaire/5 特征值 & 特征向量/5.4 Eigen 马尔可夫矩阵.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不等式约束—— Conditions de Kuhn et Tucker.md",
+                "file": "Algèbre Linéaire/5 特征值 & 特征向量/5.4 Eigen 马尔可夫矩阵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "不等式约束—— Conditions de Kuhn et Tucker.md",
+                "file": "Algèbre Linéaire/5 特征值 & 特征向量/5.4 Eigen 马尔可夫矩阵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不等式约束—— Conditions de Kuhn et Tucker.md"
+                "file": "Algèbre Linéaire/5 特征值 & 特征向量/5.4 Eigen 马尔可夫矩阵.md"
               }
             }
           }
@@ -255,19 +279,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55309ff00a4b2b33",
+  "active": "2d586152d5e2962e",
   "lastOpenFiles": [
-    "Optimisation/有约束优化/等式约束——Lagrange.md",
-    "不等式约束—— Conditions de Kuhn et Tucker.md",
+    "Optimisation/0.1 Introduction.md",
     "Optimisation/2 Direction.md",
+    "Optimisation/无约束优化/Méthode de Gradiant.md",
     "Optimisation/无约束优化/Méthode de Newton et quasi-Newton.md",
-    "Optimisation/无约束优化/梯度下降法.md",
     "Optimisation/有约束优化/存在性 & 唯一性.md",
     "Optimisation/无约束优化/存在性、唯一性和优化条件.md",
+    "Optimisation/无约束优化/Méthode de Quasi-Newton.md",
+    "Optimisation/无约束优化/BGD & SGD.md",
+    "Optimisation/有约束优化/不等式约束—— Conditions de Kuhn et Tucker.md",
+    "Optimisation/有约束优化/等式约束——Lagrange.md",
     "Optimisation/有约束优化",
     "Optimisation/1 Outils Techniques.md",
     "Optimisation/0.2 Introduction.md",
-    "Optimisation/0.1 Introduction.md",
     "3.md",
     "Optimisation/无约束优化",
     "Optimisation",
@@ -285,8 +311,6 @@
     "实分析/Analyse de Fourier/1.1.3 Transformation de Fourier.md",
     "Algèbre Linéaire/5 特征值 & 特征向量/相似矩阵.md",
     "Algèbre Linéaire/6 正定性 & 二次型最小值.md",
-    "实分析/Analyse de Fourier/1.1.4.2 Convolution.md",
-    "Algèbre Linéaire/5 特征值 & 特征向量/Extra 复数矩阵.md",
     "pics/二次型2.png",
     "pics/收敛范围.png",
     "pics/截屏2024-03-06 16.35.02.png",

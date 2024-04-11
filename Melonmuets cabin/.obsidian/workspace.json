@@ -8,67 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bce61ea44b3a98c6",
+            "id": "efa72795483aa23d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "进度/20240225 叶恒.md",
+                "file": "20240407 叶恒.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "15ec2b253f0ddd37",
+            "id": "b292acb21142940c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "进度/20240303 叶恒.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6084893407f8c67d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "进度/20240303 叶恒.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11c6c3069857f82a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "进度/20240316 叶恒.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fde2a6b8fec5f16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20240324 叶恒.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.12"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f96d54af2b202780",
@@ -134,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20240324 叶恒.md",
+                "file": "20240407 叶恒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20240324 叶恒.md",
+                "file": "20240407 叶恒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20240324 叶恒.md"
+                "file": "20240407 叶恒.md"
               }
             }
           }
@@ -195,28 +157,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3fde2a6b8fec5f16",
+  "active": "b292acb21142940c",
   "lastOpenFiles": [
+    "进度/pics/文档展示.png",
+    "进度/pics/截屏2024-04-07 21.13.26.png",
+    "进度/20240330 叶恒.md",
+    "20240407 叶恒.md",
+    "进度/pics/截屏2024-03-30 21.49.58.png",
+    "进度/pics/姿态控制很好.png",
+    "进度/20240324 叶恒.md",
     "进度/pics/MPC 控制器.png",
     "进度/pics/PD 控制器.png",
     "进度/20240225 叶恒.md",
-    "20240324 叶恒.md",
     "进度/pics/力矩控制机体.png",
     "进度/pics/位置控制机体.png",
     "进度/20240316 叶恒.md",
     "pics/灯泡的联想4.png",
     "pics/灯泡的联想3.jpg",
     "pics/灯泡的联想2.pic.jpg",
-    "pics/灯泡的联想1.pic.jpg",
     "pics",
     "oics",
     "未命名文件夹",
     "进度/20240303 叶恒.md",
     "灯泡的联想 叶恒 521260910012.md",
     "进度/20240310 叶恒.md",
-    "进度/pics/曲线轨迹.jpg",
-    "进度/pics/运动学笔记.png",
-    "进度/pics/控制器.png",
     "进度/20240218 叶恒.md"
   ]
 }
