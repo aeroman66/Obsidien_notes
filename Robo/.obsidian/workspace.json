@@ -4,119 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00428a6e68901428",
+        "id": "5bf3e10efa600587",
         "type": "tabs",
         "children": [
           {
-            "id": "cbafe3bea074f42d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机器人学导论/2 雅可比/2.4 静力 & 力域中的雅可比.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc1c336af8730f94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机器人学导论/动力学/Intro dynamic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97baa37b5b1b93f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机器人学导论/2 雅可比/2.1.1 刚体的角速度和线速度.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98ecce54dd82b860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机器人学导论/动力学/3.1.1 刚体加速度.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70c0b0b4b5784677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机器人学导论/动力学/3.1.2 刚体动能.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2fa2a3b3a4bf7e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATLAB/2 程序流程控制/2.2 选择结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1a931cd776f9ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dr.Cancanneed/最优化控制/2 最优控制问题 & 性能指标.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2423f4a520fe5ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dr.Cancanneed/现代控制理论/控制器设计/线性控制器/LQR 控制器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb640b5953c123cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dr.Cancanneed/最优化控制/4 LQR 详解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af638ecc11b1bc09",
+            "id": "3659d79271463ca7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,31 +20,19 @@
             }
           },
           {
-            "id": "425a6ad7c2399ce1",
+            "id": "3ef0e9f89dd2d622",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dr.Cancanneed/最优化控制/2 最优控制问题 & 性能指标.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a2354692ed8f8d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dr.Cancanneed/最优化控制/2 最优控制问题 & 性能指标.md",
+                "file": "MATLAB/2 程序流程控制/2.3 循环结构.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 200
   },
   "right": {
     "id": "bac7ac61659ec15b",
@@ -218,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dr.Cancanneed/最优化控制/4 LQR 详解.md",
+                "file": "MATLAB/2 程序流程控制/2.3 循环结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dr.Cancanneed/最优化控制/4 LQR 详解.md",
+                "file": "MATLAB/2 程序流程控制/2.3 循环结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dr.Cancanneed/最优化控制/4 LQR 详解.md"
+                "file": "MATLAB/2 程序流程控制/2.3 循环结构.md"
               }
             }
           }
@@ -279,51 +159,51 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e9da5bf771dd2315",
+  "active": "3ef0e9f89dd2d622",
   "lastOpenFiles": [
+    "机器人学导论/2 雅可比/2.3 雅可比.md",
+    "机器人学导论/2 雅可比/2.1.1 刚体的角速度和线速度.md",
+    "机器人学导论/2 雅可比/2.1.2 角速度 advanced.md",
+    "机器人学导论/2 雅可比/2.2 连杆运动与速度传递.md",
+    "机器人学导论/2 雅可比/2.4 静力 & 力域中的雅可比.md",
+    "机器人学导论/1 空间描述和变换/1.4 其他的姿态描述.md",
+    "机器人学导论/1 空间描述和变换/1.2.2 空间变换——算子.md",
+    "机器人学导论/1 空间描述和变换/1.2.1 空间变换——映射.md",
+    "机器人学导论/1 空间描述和变换/1.1 空间描述.md",
+    "论文/TinyMPC -- MPC on Resource-Constrained Microcontrollers.md",
+    "Fast Contact-Implicit MPC.md",
+    "论文/CAFE-MPC -- A Cascaded-Fidelity Model Predictive Control Framework with Tuning-Free Whole-Body Control.md",
+    "Dr.Cancanneed/最优化控制/Differential Dynamic Programming.md",
     "Dr.Cancanneed/最优化控制/2 最优控制问题 & 性能指标.md",
+    "Dr.Cancanneed/最优化控制/3 动态规划.md",
     "Dr.Cancanneed/最优化控制/4 LQR 详解.md",
+    "Dr.Cancanneed/动态系统建模与分析/Laplace Transform.md",
+    "Dr.Cancanneed/pics/贝尔曼方程9 1.png",
+    "机器人学导论/动力学/Intro dynamic.md",
+    "MATLAB/2 程序流程控制/2.2 选择结构.md",
+    "机器人学导论/动力学/3.1.2 刚体动能.md",
+    "Dr.Cancanneed/pics/贝尔曼方程9.png",
+    "Dr.Cancanneed/pics/累计回报value.png",
+    "Dr.Cancanneed/pics/episode.png",
+    "Dr.Cancanneed/pics/控制马尔可夫.png",
     "Dr.Cancanneed/现代控制理论/3 连续系统离散化.md",
     "Dr.Cancanneed/现代控制理论/1 状态空间与方程.md",
     "Dr.Cancanneed/现代控制理论/控制器设计/线性控制器/LQR 控制器.md",
     "Dr.Cancanneed/pics/闭环系统.png",
     "Dr.Cancanneed/pics/ .png",
-    "Dr.Cancanneed/最优化控制/3 动态规划.md",
-    "论文/TinyMPC -- MPC on Resource-Constrained Microcontrollers.md",
     "Dr.Cancanneed/最优化控制/1 非线性模型.md",
     "Dr.Cancanneed/pics/独轮车.png",
-    "论文/CAFE-MPC -- A Cascaded-Fidelity Model Predictive Control Framework with Tuning-Free Whole-Body Control.md",
     "Dr.Cancanneed/最优化控制",
-    "MATLAB/2 程序流程控制/2.2 选择结构.md",
     "论文",
     "MATLAB/0 基础知识/0.4 矩阵表示.md",
     "MATLAB/0 基础知识/0.5 矩阵元素操作.md",
-    "MATLAB/0 基础知识/0.6 字符串数据类型.md",
-    "MATLAB/1 矩阵处理/特殊矩阵.md",
-    "MATLAB/1 矩阵处理/矩阵求值.md",
-    "MATLAB/1 矩阵处理/矩阵特征值与特征向量.md",
-    "MATLAB/1 矩阵处理/矩阵变换.md",
-    "MATLAB/1 矩阵处理/稀疏矩阵.md",
-    "MATLAB/0 基础知识/0.1 数值数据类型.md",
-    "MATLAB/0 基础知识/0.2 变量及其操作.md",
-    "MATLAB/0 基础知识/0.3 基本运算.md",
-    "Dr.Cancanneed/现代控制理论/2 状态空间方程的解.md",
-    "MATLAB/0 基础知识/0.0 一些命令行小知识.md",
-    "MATLAB/2 程序流程控制/2.3 循环结构.md",
-    "机器人学导论/动力学/3.1.1 刚体加速度.md",
-    "Irène Jacob.md",
     "机器人学导论/动力学",
     "MATLAB/4 符号计算",
     "Simulink",
     "MATLAB/3 绘图",
     "Dr.Cancanneed/pics/三维绘图2.png",
     "Dr.Cancanneed/pics/三维绘图1.png",
-    "Dr.Cancanneed/pics/截屏2024-02-29 19.27.18.png",
-    "Dr.Cancanneed/pics/截屏2024-02-29 19.27.58.png",
-    "Dr.Cancanneed/pics/函数嵌套调用.png",
     "MATLAB/2 程序流程控制",
-    "Dr.Cancanneed/pics/带状稀疏矩阵.png",
-    "Dr.Cancanneed/pics/稀疏矩阵.png",
     "MATLAB/1 矩阵处理",
     "Dr.Cancanneed/现代控制理论/控制器设计/MPC",
     "Dr.Cancanneed/现代控制理论/控制器设计",
